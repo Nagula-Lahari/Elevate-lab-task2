@@ -1,0 +1,17 @@
+/* Custom CSS for the completed task class */
+.completed {
+    text-decoration: line-through;
+    color: #6b7280; /* Gray text for completed tasks */
+}
+
+/* Ensure the body uses the Inter font and sets up the main layout */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f3f4f6; /* Light gray background */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align to top for better content flow */
+    min-height: 100vh; /* Full viewport height */
+    padding: 20px; /* Add some padding around the container */
+    box-sizing: border-box; /* Include padding in element's total width and height */
+}
