@@ -66,6 +66,8 @@ This project was designed to reinforce several core front-end development concep
 ## 📸 Screenshot
 
 ![screenshot](https://github.com/user-attachments/assets/368d9a8f-9032-4a6d-834d-ed8c4c4f8684)
+![screenshot2](https://github.com/user-attachments/assets/3e1fa759-9980-4dce-9f7e-f6142c7d29be)
+![screenshot3](https://github.com/user-attachments/assets/d15b5a0c-e301-498a-b9c8-4c5343ab4b12)
 
 
 -----
